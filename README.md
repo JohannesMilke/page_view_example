@@ -1,6 +1,6 @@
-# advent1_page_view
+# PageView
 
-A new Flutter project.
+An example of how to use the PageView in Portrait and Landscape mode with circular page indicators.
 
 ## Getting Started
 
